@@ -4,7 +4,7 @@ This is source code of Youtube Channel Video Tutorial.
 
 Channel Name: CodeFrog
 
-Video Title: UI Design Tutorial - Location Tracker HTML CSS Speed Coding
+Video Title: UI Design Tutorial - Movie App HTML CSS Speed Coding
 
 Video Link: https://www.youtube.com/watch?v=--C6sD4LGI0
 
